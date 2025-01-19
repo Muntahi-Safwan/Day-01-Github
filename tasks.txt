@@ -1,0 +1,3 @@
+- [] Initialize the Git repository
+- [] Add the list items
+- [] Complete the project
