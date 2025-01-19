@@ -1,5 +1,5 @@
 - [] Initialize the Git repository
-- [] Add the list items
+- [] Add the list items as I have now modified it and again modified it in feature-b
 - [] Merging a Branch
 - [] Publish your work on Github
 - [] Add a README File
