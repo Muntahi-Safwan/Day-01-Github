@@ -1,3 +1,6 @@
 - [] Initialize the Git repository
 - [] Add the list items
+- [] Merging a Branch
+- [] Publish your work on Github
+- [] Add a README File
 - [] Complete the project
